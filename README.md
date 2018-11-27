@@ -9,3 +9,6 @@ Some change
 # my-website
 Changes for update-readme branch
 More local changes
+##Getting started 
+
+To get started  with this project, just 'clone this repository'
